@@ -1,4 +1,4 @@
-# Terraform Full Crash Course – Topics
+# Terraform Full Course – Topics
 
 - Introduction to Terraform
 - Terraform Installation on Windows & Linux
