@@ -14,3 +14,4 @@
 - Terraform State File Management
 - Terraform Workspaces
 - More topics will be added...
+<img alt="Terraform" src="https://www.datocms-assets.com/2885/1731373310-terraform_white.svg" width="600px">
