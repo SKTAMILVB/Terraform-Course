@@ -1,6 +1,6 @@
-# Terraform Full Course – Topics
+## Terraform Full Course – Topics
 
-- ##Introduction to Terraform
+- ## Introduction to Terraform
 - Terraform Installation on Windows & Linux
 - Terraform Basics
 - Terraform Initial Setup for AWS Cloud
