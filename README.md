@@ -1,6 +1,7 @@
 ## Terraform Full Course – Topics
 
- ## Introduction to Terraform: Infrastructure as Code: Infrastructure is described using a high-level configuration syntax. This allows a blueprint of your datacenter to be versioned and treated as you would any other code. Additionally, infrastructure can be shared and re-used.
+ ## Introduction to Terraform: 
+ Infrastructure as Code: Infrastructure is described using a high-level configuration syntax. This allows a blueprint of your datacenter to be versioned and treated as you would any other code. Additionally, infrastructure can be shared and re-used.
 - Terraform Installation on Windows & Linux
 - Terraform Basics
 - Terraform Initial Setup for AWS Cloud
