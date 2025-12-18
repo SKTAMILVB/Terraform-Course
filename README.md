@@ -1,6 +1,6 @@
 # Terraform Full Course – Topics
 
- ## Introduction to Terraform: 
+ ## What is Terraform?: 
 - 
   
 ## Terraform Installation on Windows & Linux
