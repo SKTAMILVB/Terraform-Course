@@ -11,7 +11,7 @@
    - **Reusable Modules**
    - **Version Control**
    - **Cost & Resource Optimization**
-   - Time saving****
+   - **Time saving**
 
   
 ## Terraform Installation on Windows & Linux
