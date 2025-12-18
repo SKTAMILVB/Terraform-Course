@@ -2,7 +2,9 @@
 
  ## What is Terraform?
 - Terraform is an Infrastructure as Code tool that allows you to build, change, and manage cloud and on-premises resources safely and efficiently.
-## - Write
+## Write: Define infrastructure in configuration files.
+## Plan: Review the changes terraform will ake to your infrastructure.
+## Apply: Terraform provisions your infrastructure and updates the state files.
   
   <img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/8db67e22-74bd-454e-b072-202d119c32f8" />
   
