@@ -1,10 +1,17 @@
 # Terraform – Complete Guide (Git/README)
 
  ## What is Terraform?
-- Terraform is an Infrastructure as Code tool that allows you to build, change, and manage cloud and on-premises resources safely and efficiently.
-- **Write**   : Define infrastructure in configuration files.
-- **Plan**    : Review the changes terraform will ake to your infrastructure.
-- **Apply**   : Terraform provisions your infrastructure and updates the state files.
+- Terraform is an Infrastructure as Code (IaC) tool developed by HashiCorp. It allows you to define, provision, and manage infrastructure across cloud providers (AWS, Azure, GCP) and on‑prem environments using a declarative configuration language.
+   - Infrastructure as Code
+   - Multi-Cloud Support
+   - Automation & Speed
+   - State Management
+   - Plan Before Apply
+   - Reusable Modules
+   - Version Control
+   - Cost & Resource Optimization
+   - Time saving
+
   
 ## Terraform Installation on Windows & Linux
 -
