@@ -1,4 +1,4 @@
-# Terraform Full Course – Topics
+# Terraform – Complete Guide (Git/README Format)
 
  ## What is Terraform?
 - Terraform is an Infrastructure as Code tool that allows you to build, change, and manage cloud and on-premises resources safely and efficiently.
