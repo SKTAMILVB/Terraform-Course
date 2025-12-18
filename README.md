@@ -2,8 +2,9 @@
 
  ## What is Terraform?
 - Terraform is an Infrastructure as Code (IaC) tool developed by HashiCorp. It allows you to define, provision, and manage infrastructure across cloud providers (AWS, Azure, GCP) and on‑prem environments using a declarative configuration language.
-   - Infrastructure as Code
-   - Multi-Cloud Support
+
+   - **Infrastructure as Code**
+   - **Multi-Cloud Support**
    - Automation & Speed
    - State Management
    - Plan Before Apply
