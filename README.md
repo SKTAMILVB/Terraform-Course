@@ -5,13 +5,13 @@
 
    - **Infrastructure as Code**
    - **Multi-Cloud Support**
-   - Automation & Speed
-   - State Management
-   - Plan Before Apply
-   - Reusable Modules
-   - Version Control
-   - Cost & Resource Optimization
-   - Time saving
+   - **Automation & Speed**
+   - **State Management**
+   - **Plan Before Apply**
+   - **Reusable Modules**
+   - **Version Control**
+   - **Cost & Resource Optimization**
+   - Time saving****
 
   
 ## Terraform Installation on Windows & Linux
