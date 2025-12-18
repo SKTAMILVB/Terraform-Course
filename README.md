@@ -14,4 +14,6 @@
    - **Time saving**
 
  ## Terraform Installation?
+ - Install Terraform on Windows
+   - Download Terraform from:[https://developer.hashicorp.com/terraform/downloads]
 <img alt="Terraform" src="https://www.datocms-assets.com/2885/1731373310-terraform_white.svg" width="600px">
