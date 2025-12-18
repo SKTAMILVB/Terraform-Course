@@ -6,8 +6,6 @@
 ## Plan: Review the changes terraform will ake to your infrastructure.
 ## Apply: Terraform provisions your infrastructure and updates the state files.
   
-  <img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/8db67e22-74bd-454e-b072-202d119c32f8" />
-  
 ## Terraform Installation on Windows & Linux
 -
 
